@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+.container {
+    background-color: pink;
+    border-radius: 5%;
+}
+h1 {
+    text-align: center;
+}
+form {
+    padding: 3%;
+}
+input {
+    background-color: bisque;
+}
+button {
+    background-color: bisque;
+    font-size: 18px;
+}
+#result {
+    margin-top: 10px;
+}

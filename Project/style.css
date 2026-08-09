@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+span {
+    display: block;
+}
+
+.button {
+    height: 80px;
+    width: 80px;
+    border: solid black 2px;
+    border-radius: 20%;
+    display: inline-block;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#white {
+    background-color: white;
+}
+
+#beige {
+    background-color: beige;
+}
